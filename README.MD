@@ -57,8 +57,8 @@ Update `src/config.js` to personalize page headings, descriptions and the site t
 ### 2. Clone your forked repository
 
 ```bash
-git clone https://github.com/<your-username>/PersonalPortfolio_codecollab.git 
-cd PersonalPortfolio_codecollab
+git clone https://github.com/<your-username>/PersonalPortfolio_CodeCollab.git 
+cd PersonalPortfolio_CodeCollab
 ```
 
 ### 3. Install dependencies
